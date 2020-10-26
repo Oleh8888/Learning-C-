@@ -1,0 +1,3 @@
+﻿  Black Jack My.cpp
+C:\Users\admin\source\repos\Black Jack My\Black Jack My\Black Jack My.cpp(63,7): warning C4930: Deck makeDeck(void): функция с прототипом не вызвана (предполагалось определение переменной?)
+  Black Jack My.vcxproj -> C:\Users\admin\source\repos\Black Jack My\Debug\Black Jack My.exe

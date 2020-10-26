@@ -1,0 +1,3 @@
+﻿  ConsoleApplication4.cpp
+C:\Users\admin\source\repos\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(28,29): warning C4552: "+": результат выражения не используется
+  ConsoleApplication4.vcxproj -> C:\Users\admin\source\repos\ConsoleApplication4\Debug\ConsoleApplication4.exe

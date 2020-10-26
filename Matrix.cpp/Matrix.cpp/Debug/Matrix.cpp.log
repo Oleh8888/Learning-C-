@@ -1,0 +1,4 @@
+﻿  Matrix.cpp.cpp
+C:\Users\admin\source\repos\Matrix.cpp\Matrix.cpp\Matrix.cpp.cpp(28,29): warning C4552: "+": результат выражения не используется
+C:\Users\admin\source\repos\Matrix.cpp\Matrix.cpp\Matrix.cpp.cpp(39,29): warning C4552: "+": результат выражения не используется
+  Matrix.cpp.vcxproj -> C:\Users\admin\source\repos\Matrix.cpp\Debug\Matrix.cpp.exe
